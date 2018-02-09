@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.iflym</groupId>
-    <artifactId>dht</artifactId>
+    <artifactId>dht-chord</artifactId>
     <version>1.0.0-SNAPSHOT</version>
 
     <dependencies>

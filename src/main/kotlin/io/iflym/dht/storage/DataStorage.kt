@@ -6,7 +6,7 @@ import io.iflym.dht.model.Url
 
 /**
  * 描述统一的下层实际存储
- * Created by tanhua(flym) on 7/17/2017.
+ * Created by flym on 7/17/2017.
  * @author flym
  **/
 interface DataStorage {

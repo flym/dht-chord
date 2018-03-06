@@ -6,7 +6,7 @@ import java.nio.ByteBuffer
 
 /**
  * 字节数组工具类,用于按原生的字节位进行比较
- * Created by tanhua(flym) on 7/17/2017.
+ * Created by flym on 7/17/2017.
  */
 object ByteUtils {
     fun compareBitTo(aKey: ByteArray, bKey: ByteArray): Int {

@@ -8,7 +8,7 @@ import java.util.*
 
 /**
  * 用于描述对网络节点的其它节点引用信息
- * Created by tanhua(flym) on 7/13/2017.
+ * Created by flym on 7/13/2017.
  */
 interface References : ProxyListener {
 

@@ -9,7 +9,7 @@ import org.slf4j.Logger
 import org.slf4j.LoggerFactory
 import java.util.*
 
-/** Created by tanhua(flym) on 7/26/2017.  */
+/** Created by flym on 7/26/2017.  */
 open class AbstractSuccessorList protected constructor(
         protected val node: RingNode,
         numberOfEntries: Int,

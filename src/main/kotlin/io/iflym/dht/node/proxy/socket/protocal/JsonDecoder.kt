@@ -7,7 +7,7 @@ import io.netty.handler.codec.LengthFieldBasedFrameDecoder
 
 /**
  * 实现简单的json解码器
- * Created by tanhua(flym) on 7/21/2017.
+ * Created by flym on 7/21/2017.
  */
 class JsonDecoder : LengthFieldBasedFrameDecoder(
         //最大对象10M

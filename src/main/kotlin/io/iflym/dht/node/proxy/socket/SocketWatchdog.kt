@@ -6,7 +6,7 @@ import io.netty.channel.ChannelInboundHandlerAdapter
 import io.netty.util.AttributeKey
 import java.util.*
 
-/** Created by tanhua(flym) on 7/21/2017.  */
+/** Created by flym on 7/21/2017.  */
 class SocketWatchdog(private val socketProxy: SocketProxy) : ChannelInboundHandlerAdapter() {
 
     @Throws(Exception::class)

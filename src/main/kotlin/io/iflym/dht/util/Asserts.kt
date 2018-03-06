@@ -5,7 +5,7 @@ import io.iflym.dht.exception.AssertException
 
 import java.lang.reflect.InvocationTargetException
 
-/** Created by tanhua(flym) on 6/23/2017.  */
+/** Created by flym on 6/23/2017.  */
 object Asserts {
     /** 断言相应的判断应该为true  */
     fun assertTrue(result: Boolean, errorMessage: String, vararg params: Any) {

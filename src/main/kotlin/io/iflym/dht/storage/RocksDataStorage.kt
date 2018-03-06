@@ -18,7 +18,7 @@ import java.util.*
 
 /**
  * 使用rocksdb进行的数据存储
- * Created by tanhua(flym) on 7/17/2017.
+ * Created by flym on 7/17/2017.
  *
  * @author flym
  */

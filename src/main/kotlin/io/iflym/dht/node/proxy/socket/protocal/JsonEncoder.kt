@@ -8,7 +8,7 @@ import io.netty.handler.codec.MessageToByteEncoder
 
 /**
  * 实现简单的json编码协议
- * Created by tanhua(flym) on 7/21/2017.
+ * Created by flym on 7/21/2017.
  */
 class JsonEncoder : MessageToByteEncoder<Any>() {
 

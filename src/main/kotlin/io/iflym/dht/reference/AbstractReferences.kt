@@ -9,7 +9,7 @@ import org.slf4j.Logger
 import org.slf4j.LoggerFactory
 import java.util.*
 
-/** Created by tanhua(flym) on 7/26/2017.  */
+/** Created by flym on 7/26/2017.  */
 abstract class AbstractReferences protected constructor(_node: RingNode) : References {
 
     protected val logger: Logger = LoggerFactory.getLogger(References::class.java.name + "." + _node.nodeId)

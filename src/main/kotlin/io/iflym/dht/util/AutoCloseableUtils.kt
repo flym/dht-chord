@@ -1,6 +1,6 @@
 package io.iflym.dht.util
 
-/** Created by tanhua(flym) on 7/17/2017.  */
+/** Created by flym on 7/17/2017.  */
 object AutoCloseableUtils {
     fun closeQuietly(closeable: AutoCloseable) {
         try {

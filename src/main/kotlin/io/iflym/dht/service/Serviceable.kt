@@ -2,7 +2,7 @@ package io.iflym.dht.service
 
 /**
  * 描述一个服务信息当前的运行状态
- * Created by tanhua(flym) on 7/25/2017.
+ * Created by flym on 7/25/2017.
  */
 interface Serviceable {
 

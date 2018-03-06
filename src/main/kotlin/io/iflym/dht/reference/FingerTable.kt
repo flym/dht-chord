@@ -5,7 +5,7 @@ import io.iflym.dht.node.ProxyNode
 
 /**
  * 描述一个主要的索引表语义
- * Created by tanhua(flym) on 7/26/2017.
+ * Created by flym on 7/26/2017.
  */
 interface FingerTable {
 
